@@ -1,0 +1,70 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Honda
+Judul Topik: Pengenalan Produk Honda
+Alamat Github: https://github.com/ffemperor99/tugas_project1
+Alamat Trello: https://trello.com/b/VsxgTfDI/welcome-board
+Anggota 1:
+	Nama: Fandy
+	NIM: 12.111.1141
+Anggota 2:
+	Nama: Thomas
+	NIM: 
+Anggota 3:
+	Nama: Johny
+	NIM: 
+Anggota 4:
+	Nama:
+	NIM:
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: FANDY (12.111.1141)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1):
+1.
+2.
+3.
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+27/5 
+Daily Scrum
+(Nama Anggota 1):
+1. 
+2. 
+
+
+(Nama Anggota 2):
+1.
+2.
+
+
+(Nama Anggota 3):
+1.
+2.
+
