@@ -13,7 +13,7 @@ Anggota 2:
 	NIM: 
 Anggota 3:
 	Nama: Johny
-	NIM: 
+	NIM: 12.111.2422
 Anggota 4:
 	Nama:
 	NIM:
