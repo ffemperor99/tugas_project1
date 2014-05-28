@@ -60,7 +60,7 @@ Daily Scrum
 
 
 (Nama Anggota 2): Thomas
-1. Mencari data dan mengerjakan beberapa Spesifikasi Honda Civic
+1. Mencari data dan mengerjakan beberapa Spesifikasi Honda Accord
 2.
 
 
@@ -68,3 +68,18 @@ Daily Scrum
 1.
 2.
 
+28/5 
+Daily Scrum
+(Nama Anggota 1):Fandy
+1. 
+2. 
+
+
+(Nama Anggota 2): Thomas
+1. Mengerjakan beberapa Spesifikasi Honda City
+2. Memperbaiki kesalahan data pada Spesifikasi Honda Accord
+
+
+(Nama Anggota 3): 
+1.
+2.
