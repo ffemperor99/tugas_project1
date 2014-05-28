@@ -65,8 +65,8 @@ Daily Scrum
 
 
 (Nama Anggota 3): Johny
-1. Mengerjakan Tentang Honda dan Memperbaiki tulisan serta menyusun presentasi lebih teratur
-2. kendala saat merge
+1. Hari ini mengerjakan Tentang Honda dan memperbaiki tulisan serta menyusun presentasi lebih teratur
+2. Saya ada kendala di saat merge
 
 
 28/5 
@@ -81,6 +81,7 @@ Daily Scrum
 2. Memperbaiki kesalahan data pada Spesifikasi Honda Accord
 
 
-(Nama Anggota 3): 
-1.
-2.
+(Nama Anggota 3): Johny
+1. Semalam saya mengerjakan tentang honda
+2. hari ini saya emperbaiki tulisan serta menyusun presentasi lebih teratur
+3. Saya ada kendala di saat merge
