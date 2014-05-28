@@ -56,7 +56,7 @@ Daily Scrum
 Daily Scrum
 (Nama Anggota 1):Fandy
 1. Mengerjakan judul dan cover
-2. Memperbaiki tulisan serta menyusun presentasi lebih teratur
+2. saya ada kendala merge
 
 
 (Nama Anggota 2): Thomas
@@ -72,13 +72,16 @@ Daily Scrum
 28/5 
 Daily Scrum
 (Nama Anggota 1):Fandy
-1. 
-2. 
+1. Semalam saya mengerjakan judul cover
+2. Hari ini saya mengatasi masalah merging
+3.saya ada kendala saat merging,switching master,pull dan edit
 
 
 (Nama Anggota 2): Thomas
-1. Mengerjakan beberapa Spesifikasi Honda City
-2. Memperbaiki kesalahan data pada Spesifikasi Honda Accord
+1. Mengerjakan beberapa Spesifikasi Honda accord
+2. Memperbaiki kesalahan data pada Spesifikasi Honda Accord & city
+3. -
+
 
 
 (Nama Anggota 3): Johny
