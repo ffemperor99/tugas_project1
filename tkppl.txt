@@ -64,9 +64,10 @@ Daily Scrum
 2.
 
 
-(Nama Anggota 3): 
-1.
-2.
+(Nama Anggota 3): Johny
+1. Mengerjakan Tentang Honda dan Memperbaiki tulisan serta menyusun presentasi lebih teratur
+2. kendala saat merge
+
 
 28/5 
 Daily Scrum
