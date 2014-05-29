@@ -92,10 +92,10 @@ Daily Scrum
 
 29/5 
 Daily Scrum
-(Nama Anggota 1):
-1.
-2.
-3.
+(Nama Anggota 1):Fandy
+1.Semalam mengatasi masalah merge dan switching master
+2.Hari ini saya Menambah gambar di halaman depan cover
+3.Saya ada kendala di switching & templating
 
 (Nama Anggota 2):
 1.
