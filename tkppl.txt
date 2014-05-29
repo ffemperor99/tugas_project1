@@ -86,5 +86,23 @@ Daily Scrum
 
 (Nama Anggota 3): Johny
 1. Semalam saya mengerjakan tentang honda
-2. hari ini saya emperbaiki tulisan serta menyusun presentasi lebih teratur
+2. hari ini saya memperbaiki tulisan serta menyusun presentasi lebih teratur
 3. Saya ada kendala di saat merge
+
+
+29/5 
+Daily Scrum
+(Nama Anggota 1):
+1.
+2.
+3.
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3): Johny
+1. Semalam saya memperbaiki tulisan serta menyusun presentasi lebih teratur
+2. Hari ini saya menambakan gambar di slide
+3. Saya ada kendala saat merge, pull, stash dan push
