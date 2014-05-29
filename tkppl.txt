@@ -78,7 +78,7 @@ Daily Scrum
 
 
 (Nama Anggota 2): Thomas
-1. Mengerjakan beberapa Spesifikasi Honda accord
+1. Kemarin mengerjakan beberapa Spesifikasi Honda Accord
 2. Memperbaiki kesalahan data pada Spesifikasi Honda Accord & city
 3. -
 
@@ -97,10 +97,10 @@ Daily Scrum
 2.Hari ini saya Menambah gambar di halaman depan cover
 3.Saya ada kendala di switching & templating
 
-(Nama Anggota 2):
-1.
-2.
-3.
+(Nama Anggota 2): Thomas
+1. Kemarin mengerjakan Spesifikasi Honda City
+2. Mengerjakan Spesifikasi Honda Civic
+3. Mengatur tulisan yang berantakan ketika presentasi di run di localhost 8000
 
 (Nama Anggota 3): Johny
 1. Semalam saya memperbaiki tulisan serta menyusun presentasi lebih teratur
