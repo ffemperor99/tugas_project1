@@ -112,15 +112,15 @@ Daily Scrum
 
 30/5 
 Daily Scrum
-(Nama Anggota 1):
+(Nama Anggota 1): Fandy
 1.Semalam saya menambah gambar pada cover depan
 2.hari ini menambah tampilan baru honda mobilio
 3.saya ada kendala dengan master repository
 
-(Nama Anggota 2):
-1.
-2.
-3.
+(Nama Anggota 2): Thomas
+1. Semalam saya mengerjakan Spesifikasi Honda Civic
+2. Menambah & mengerjakan Spesifikasi Honda Brio
+3. Saya ada kendala ketika pull (terjadi error)
 
 (Nama Anggota 3): Johny
 1. Semalam saya menambah gambar di slide
