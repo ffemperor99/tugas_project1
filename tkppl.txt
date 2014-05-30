@@ -113,9 +113,9 @@ Daily Scrum
 30/5 
 Daily Scrum
 (Nama Anggota 1):
-1.
-2.
-3.
+1.Semalam saya menambah gambar pada cover depan
+2.hari ini menambah tampilan baru honda mobilio
+3.saya ada kendala dengan master repository
 
 (Nama Anggota 2):
 1.
