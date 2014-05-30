@@ -27,6 +27,8 @@ Sprint 1:
 Scrummaster: FANDY (12.111.1141)
 
 Sprint 2:
+30/5 - 2/6
+Scrummaster: JOHNY (12.111.2422)
 
 
 Sprint 3: 
@@ -106,3 +108,21 @@ Daily Scrum
 1. Semalam saya memperbaiki tulisan serta menyusun presentasi lebih teratur
 2. Hari ini saya menambakan gambar di slide
 3. Saya ada kendala saat merge, pull, stash dan push
+
+
+30/5 
+Daily Scrum
+(Nama Anggota 1):
+1.
+2.
+3.
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3): Johny
+1. Semalam saya menambah gambar di slide
+2. Hari ini saya menambah gambar honda city di slide
+3. -
