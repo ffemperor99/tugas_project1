@@ -135,10 +135,10 @@ Daily Scrum
 2.
 3.
 
-(Nama Anggota 2):
-1.
-2.
-3.
+(Nama Anggota 2): Thomas
+1. Semalam saya mengerjakan Spesifikasi Honda Brio
+2. Hari ini saya mengerjakan Spesifikasi Honda CR-V
+3. -
 
 (Nama Anggota 3): Johny
 1. Semalam saya menambah gambar honda City di slide
