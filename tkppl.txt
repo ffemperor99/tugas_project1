@@ -130,10 +130,10 @@ Daily Scrum
 
 31/5
 Daily Scrum
-(Nama Anggota 1):
-1.
-2.
-3.
+(Nama Anggota 1):Fandy
+1.Semalam saya mengerjakan Tampilan awal honda mobilio
+2.Hari ini saya menambah spesifikasi honda mobilio
+3.saya ada kendala di edit stylus
 
 (Nama Anggota 2): Thomas
 1. Semalam saya mengerjakan Spesifikasi Honda Brio
