@@ -27,7 +27,7 @@ Sprint 1:
 Scrummaster: FANDY (12.111.1141)
 
 Sprint 2:
-30/5 - 2/6
+30/5 - 3/6
 Scrummaster: JOHNY (12.111.2422)
 
 
@@ -125,4 +125,22 @@ Daily Scrum
 (Nama Anggota 3): Johny
 1. Semalam saya menambah gambar di slide
 2. Hari ini saya menambah gambar honda city di slide
+3. -
+
+
+31/5
+Daily Scrum
+(Nama Anggota 1):
+1.
+2.
+3.
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3): Johny
+1. Semalam saya menambah gambar honda City di slide
+2. Hari ini saya memanbah gambar honda civic di slide
 3. -
