@@ -153,9 +153,9 @@ Daily Scrum
 3.Saya ada kendala di bagian edit border
 
 (Nama Anggota 2): Thomas
-1. 
-2. 
-3. 
+1. Semalam saya mengerjakan Spesifikasi Honda CR-V
+2. Hari ini saya mengerjakan Spesifikasi Honda Jazz
+3. -
 
 (Nama Anggota 3): Johny
 1.  Semalam saya menambah gambar honda Civic di slide
