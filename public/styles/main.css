@@ -240,20 +240,20 @@ body {
   color: #404040;
 }
 h1 {
-  font-size: 72px;
+  font-size: 52px;
   line-height: 82px;
   letter-spacing: -2px;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 h2 {
-  font-size: 42px;
+  font-size: 32px;
   letter-spacing: -1px;
   margin-bottom: 8px;
 }
 h3 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: normal;
-  margin-bottom: 24px;
+  margin-bottom: 3px;
   color: #606060;
 }
 hr {
@@ -264,7 +264,7 @@ ul {
   list-style: none;
 }
 li {
-  margin-bottom: 12px;
+  margin-bottom: 0px;
 }
 p {
   margin: 0 100px 12px;
