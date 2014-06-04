@@ -32,7 +32,8 @@ Scrummaster: JOHNY (12.111.2422)
 
 
 Sprint 3: 
-
+4/6 - 6/6
+Scrummaster : THOMAS (12.111.1869)
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -187,9 +188,9 @@ Daily Scrum
 3.Masalah koordinasi
 
 (Nama Anggota 2): Thomas
-1. 
-2. 
-3. 
+1. Semalam saya mengerjakan Spesifikasi Honda Freed
+2. Hari ini saya mengerjakan Kelebihan mobil Honda
+3. -
 
 (Nama Anggota 3): Johny
 1.  Semalam saya menambah gambar honda CR-V
