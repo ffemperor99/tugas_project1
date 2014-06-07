@@ -234,9 +234,9 @@ Daily Scrum
 7/6
 Daily Scrum
 (Nama Anggota 1):Fandy
-1.
-2.
-3.
+1. SEmalam saya mengedit font
+2. Hari ini saya mengedit slide & tambahan list harga dll
+3. Saya ada Kendala mengedit satu persatu tetapi yang bisa diedit satu bagian semua
 
 (Nama Anggota 2): Thomas
 1. 
